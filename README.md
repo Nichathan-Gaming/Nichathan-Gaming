@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning python, music and art. I am also always learning new tricks for coding in every language.
 - 💞️ I’m looking to collaborate on any of my projects. I am not artistic or musical at all so if you want to provide art or music for my projects, I will be happy to consider having you join the project.
 - 📫 How to reach me (email) JNichols@NichathanGaming.com.
--     YouTube : [Nichathan Gaming 900](https://www.youtube.com/@nichathangaming900)
+-     YouTube : https://www.youtube.com/@nichathangaming900
 -     Itch.io : https://nichathan.itch.io/
