@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @Nichathan-Gaming.
 - 👀 I’m interested in creating video games and applications. I also like to record this process to share with others.
-- 🌱 I’m currently learning python, music and art. I am also always learning new tricks for coding in every language.
+- 🌱 I’m currently focusing on Unity. I am also always learning new tricks for coding in every language.
 - 💞️ I’m looking to collaborate on any of my projects. I am not artistic or musical at all so if you want to provide art or music for my projects, I will be happy to consider having you join the project.
 - 📫 How to reach me (email) JNichols@NichathanGaming.com.
+-     Website : https://www.nichathangaming.com/
+-     Google Play : https://play.google.com/store/apps/dev?id=5505294983591200024
 -     YouTube : https://www.youtube.com/@nichathangaming900
--     Itch.io : https://nichathan.itch.io/
+-     FaceBook : https://www.facebook.com/profile.php?id=100092064726023
+-     (old) Itch.io : https://nichathan.itch.io/
